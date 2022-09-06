@@ -1,0 +1,29 @@
+.list {
+  margin-top: 3.5rem;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.poke_list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+li {
+  margin: .8rem;
+}
+
+input {
+  border-radius: .3rem;
+  border: none;
+  background-color: rgb(101, 101, 101);
+  color: rgb(233, 232, 232);
+  padding: .6rem;
+  cursor: pointer;
+}
+
+
